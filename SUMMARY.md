@@ -22,7 +22,7 @@
   * [💢 Rarezas](pilares-del-juego/activos/rarezas.md)
   * [🎀 Crianza](pilares-del-juego/activos/crianza.md)
 * [▶ Modos de juego](pilares-del-juego/modos-de-juego/README.md)
-  * [👨🌾 Modo Farming](pilares-del-juego/modos-de-juego/modo-farming.md)
+  * [👨🌾 👨🌾 Modo Farming](pilares-del-juego/modos-de-juego/modo-farming.md)
   * [👊 Modo Combate](pilares-del-juego/modos-de-juego/modo-combate.md)
 
 ## 🤑 Recompensas
@@ -48,7 +48,7 @@
 ## Equipo y Roadmap
 
 * [📆 Roadmap](equipo-y-roadmap/roadmap.md)
-* [👨💼 Equipo y colaboradores](equipo-y-roadmap/equipo-y-colaboradores.md)
+* [👨💼 👨💼 Equipo y colaboradores](equipo-y-roadmap/equipo-y-colaboradores.md)
 
 ## Miscelánea
 

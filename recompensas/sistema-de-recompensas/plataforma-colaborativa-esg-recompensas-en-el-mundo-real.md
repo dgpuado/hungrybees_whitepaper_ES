@@ -2,7 +2,7 @@
 
 Por otro lado, hemos introducido una manera alternativa, innovadora y complementaria de monetizar acciones del mundo real, acciones sostenibles que tengan un impacto real en la sostenibilidad de nuestro planeta, de nuestra sociedad y de nuestra economía. Somos la primera comunidad que premia y vincula el comportamiento de los usuarios en el mundo real, dentro del metaverso virtual del juego.
 
-#### &#x20;¿Cómo vamos a conseguir esto?
+#### ¿Cómo vamos a conseguir esto?
 
 Para fomentar el comportamiento responsable, la inversión sostenible y la responsabilidad social, se van a recompensar diferentes acciones en la vida real, a través de una plataforma colaborativa de recompensas ESG. Mostramos algunos ejemplos de acciones que se recompensaran en la comunidad, siendo un listado ilustrativo y no exhaustivo:
 
@@ -33,32 +33,28 @@ El objetivo de esta iniciativa es contribuir a la concienciación de la sociedad
 
 La recompensa que recibirán los usuarios de la comunidad por cada acción sostenible variará dependiendo del nivel o categoría del usuario (explicado en la próxima sección) y el momento del tiempo, pero como ejemplo, la recompensa inicial variará entre 20 #HHONS y 75 #HHONS por cada acción sostenible. Existirá una limitación para reclamar la recompensa de acciones sostenibles de una vez por semana.
 
-Para medir y recompensar a aquellos miembros de la comunidad que aporten un mayor valor a la iniciativa y que lideren el comportamiento responsable a largo plazo, hemos definido un sistema de categorización/ranking/badges que permitirá tener acceso a ventajas, compras privadas o acceso a servicios premium.&#x20;
+Para medir y recompensar a aquellos miembros de la comunidad que aporten un mayor valor a la iniciativa y que lideren el comportamiento responsable a largo plazo, hemos definido un sistema de categorización/ranking/badges que permitirá tener acceso a ventajas, compras privadas o acceso a servicios premium.
 
 {% hint style="success" %}
-Para medir y recompensar a aquellos miembros de la comunidad que aporten un mayor valor a la iniciativa y que lideren el comportamiento responsable a largo plazo, hemos definido un sistema de categorización/ranking/badges que permitirá tener acceso a ventajas, compras privadas o acceso a servicios premium.&#x20;
+Para medir y recompensar a aquellos miembros de la comunidad que aporten un mayor valor a la iniciativa y que lideren el comportamiento responsable a largo plazo, hemos definido un sistema de categorización/ranking/badges que permitirá tener acceso a ventajas, compras privadas o acceso a servicios premium.
 {% endhint %}
 
 ![](<../../.gitbook/assets/Cuadruple (1).png>)
-
-![](../../.gitbook/assets/4Elements.png)
 
 A continuación, mostramos una tabla donde describimos las ventajas o beneficios por categoría, así como los requisitos para acceder y promocionar de una categoría a otra.
 
 ### Beneficios/Recompensas
 
-|                                                            | Bronze | Silver    | Gold                                   | Platinum                            |
-| ---------------------------------------------------------- | ------ | --------- | -------------------------------------- | ----------------------------------- |
-| Mejora en Farming                                          | 0      | 0         | <p>+0,5% </p><p>recolección diaria</p> | <p>+1%</p><p>recolección diaria</p> |
-| Acceso prioritario al juego                                | NO     | SI (BETA) | SI                                     | SI                                  |
-| Acelerador en el juego (In game booster)                   | 1 item | 3 items   | 6 items                                | 10 items                            |
-| Recompensa directa en tokens por cada acción (#HHONS)      | 20     | 35        | 50                                     | 75                                  |
-| Acceso al canal VIP                                        | NO     | NO        | YES                                    | YES                                 |
-| Acceso a promociones, servicios y productos del ecosistema | SI     | SI        | SI (premium)                           | SI (gratuito)                       |
+|                                                            | Bronze | Silver    | Gold                                  | Platinum                            |
+| ---------------------------------------------------------- | ------ | --------- | ------------------------------------- | ----------------------------------- |
+| Mejora en Farming                                          | 0      | 0         | <p>+0,5%</p><p>recolección diaria</p> | <p>+1%</p><p>recolección diaria</p> |
+| Acceso prioritario al juego                                | NO     | SI (BETA) | SI                                    | SI                                  |
+| Acelerador en el juego (In game booster)                   | 1 item | 3 items   | 6 items                               | 10 items                            |
+| Recompensa directa en tokens por cada acción (#HHONS)      | 20     | 35        | 50                                    | 75                                  |
+| Acceso al canal VIP                                        | NO     | NO        | YES                                   | YES                                 |
+| Acceso a promociones, servicios y productos del ecosistema | SI     | SI        | SI (premium)                          | SI (gratuito)                       |
 
 ### Requisitos
-
-
 
 |                                                    | Bronze | Silver | Gold | Platinum |
 | -------------------------------------------------- | ------ | ------ | ---- | -------- |
