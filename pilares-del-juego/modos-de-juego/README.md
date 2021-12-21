@@ -2,8 +2,8 @@
 
 Exiten dos modos de juego en HungryBees:
 
-{% content-ref url="modo-farming.md" %}
-[modo-farming.md](modo-farming.md)
+{% content-ref url="modo-farming/" %}
+[modo-farming](modo-farming/)
 {% endcontent-ref %}
 
 {% content-ref url="modo-combate.md" %}

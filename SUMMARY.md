@@ -22,7 +22,10 @@
   * [💢 Rarezas](pilares-del-juego/activos/rarezas.md)
   * [🎀 Crianza](pilares-del-juego/activos/crianza.md)
 * [▶ Modos de juego](pilares-del-juego/modos-de-juego/README.md)
-  * [👨🌾 👨🌾 Modo Farming](pilares-del-juego/modos-de-juego/modo-farming.md)
+  * [👨🌾 👨🌾 Modo Farming](pilares-del-juego/modos-de-juego/modo-farming/README.md)
+    * [🏡 Jardines y plantas](pilares-del-juego/modos-de-juego/modo-farming/jardines-y-plantas.md)
+    * [🍯 Mieles potenciadoras](pilares-del-juego/modos-de-juego/modo-farming/mieles-potenciadoras.md)
+    * [🧪 Arboles de tecnología](pilares-del-juego/modos-de-juego/modo-farming/arboles-de-tecnologia.md)
   * [👊 Modo Combate](pilares-del-juego/modos-de-juego/modo-combate.md)
 
 ## 🤑 Recompensas
