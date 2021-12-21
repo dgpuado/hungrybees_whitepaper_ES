@@ -2,6 +2,8 @@
 
 Por otro lado, los apicultores también tendrán la posibilidad de adquirir colmenas donde almacenar y cuidar sus abejas. En este caso, las colmenas se diferencian en tres tipos en función de su rareza, pues será la que determinará el número de abejas que podrán acoger en su interior. Cabe destacar que se otorgará a cada apicultor una colmena de manera gratuita con espacio para 3 abejas. Sólo podrá existir un máximo de 1 abeja reina por cada colmena.
 
+Cada apicultor podrá poseer un máximo de 5 colmenas al mismo tiempo, pudiendo utilizar únicamente una de ellas para generar la producción de sus abejas.
+
 #### Gratuita/Free
 
 Espacio para albergar 2 abejas normales o un máximo de 3 abejas si una de ellas es una abeja reina. El espacio central esta reservado para una abeja reina, si se dispone de ella, pero no puede ser ocupado por otra tipología de abeja.
