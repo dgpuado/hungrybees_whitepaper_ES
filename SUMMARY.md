@@ -21,6 +21,7 @@
   * [🍯 Game items](pilares-del-juego/activos/game-items.md)
   * [💢 Rarezas](pilares-del-juego/activos/rarezas.md)
   * [🎀 Crianza](pilares-del-juego/activos/crianza.md)
+  * [🎁 Honeybox](pilares-del-juego/activos/honeybox.md)
 * [▶ Modos de juego](pilares-del-juego/modos-de-juego/README.md)
   * [👨🌾 👨🌾 Modo Farming](pilares-del-juego/modos-de-juego/modo-farming/README.md)
     * [🏡 Jardines y plantas](pilares-del-juego/modos-de-juego/modo-farming/jardines-y-plantas.md)
