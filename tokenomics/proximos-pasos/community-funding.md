@@ -1,6 +1,6 @@
 # 🌱 Community Funding
 
-Con el objetivo de acelerar el desarrollo del juego y de la comunidad, se ha decido el lanzar una campaña de apoyo a la comunidad, posibilitando el acceso a en exclusiva tanto a tokens, como a los activos principales del juego. Se habilitarán 3000 participaciones que darán acceso exclusivo y prioritario a tres paquetes diferentes, a cambio de una donación.
+Con el objetivo de acelerar el desarrollo del juego y de la comunidad, se ha decido el lanzar una campaña de apoyo a la comunidad, posibilitando el acceso en exclusiva tanto a tokens, como a los activos principales del juego. Se habilitarán 3000 participaciones que darán acceso exclusivo y prioritario a tres paquetes diferentes, a cambio de una donación.
 
 Estos serán los principales beneficios de vuestro apoyo a la iniciativa:
 
