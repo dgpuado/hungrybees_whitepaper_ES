@@ -20,6 +20,4 @@ Las Honeybox tendrán un coste de 150HHON y habrá un máximo de 100.000 cajas. 
 | Suplemento Litio 150 uds  | 12.000     |
 | Campo magnético 60 uds    | 12.000     |
 
-
-
-![        HONEYBOX](<../../.gitbook/assets/Honeybox Estatica.png>)
+![](../../.gitbook/assets/Honeybox.png)
