@@ -30,3 +30,7 @@ Los tokens que los usuarios utilicen para comprar activos en el sistema (NFTs) s
 ### Total Supply
 
 Se crearán un máximo de 320 millones de tokens y, por tanto, debido a su escasez, se espera que el valor del token aumente en línea con el aumento de la demanda.
+
+### Team & Advisors
+
+Los tokens del equipo tienen un vesting mayor que el resto de partidas , es decir, 10% TGE y luego 5% al mes. Es decir, tenemos un vesting de 18 meses. Adicionalmente a esto, para asegurar liquidez en pancake, hemos propuesto un mecanismo que libera al pool la misma cantidad de token que se vayan comprando en el marketplace (NFT). Es decir, cuando los usuarios compren 100.000 tokens en NFT, un 100% de esos tokens se queman para hacer la moneda deflacionaria. Para seguir teniendo una economía estable, lo que se hará es liberar la misma cantidad de tokens que se gasten en NFT, de la partida de team & advisors, para meterlos al pool de pancake y dar liquidez. Básicamente lo que estamos diciendo es que los tokens del team tendran un vesting a largo plazo, con un mecanismo que aporte liquidez en base al éxito del juego (compra de NFT)
