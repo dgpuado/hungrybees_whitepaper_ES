@@ -6,22 +6,18 @@ A continuación, se explica cómo se van a distribuir los tokens entre la comuni
 
 En la siguiente tabla, describimos las diferentes partidas en la que categorizamos los tokens que se emitirán, el porcentaje de token de cada categoría y el periodo de consolidación:
 
-
-
-| Allocation              | %     | Vesting                                                                                                                                                            |
-| ----------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Seed Sale               | 1,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                |
-| Private Sale            | 1,75% | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                |
-| Public Sale             | 1,75% | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month). Liquidity pool locked at least 12 months to guarantee liquidity (PancakeSwap) |
-| Marketing               | 5,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                |
-| Donations               | 3,0%  | Unlock over 12 months                                                                                                                                              |
-| Ecosystem\*\* & Listing | 5,0%  | \*\*(5% at TGE, then linear vesting over the next 12 months, only for ecosystem)                                                                                   |
-| Play to Earn Rewards    | 65,0% | 66% at TGE, then the rest when farming mode is over                                                                                                                |
-| Team & Advisors         | 17,5% | 10% at TGE, rest blocked until NFT are bought for by users. It will be unlocked periodically                                                                       |
+| Allocation              | %     | Vesting                                                                                                                                                                                             |
+| ----------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Seed Sale               | 1,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                                                 |
+| Private Sale            | 1,75% | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                                                 |
+| Public Sale             | 1,75% | <p>Launchpad - 10% Released at TGE*, then linear vesting over the next 12 months (7,5% x month)</p><p>No vesting for DEX - Liquidity pool locked 12 months to guarantee liquidity (PancakeSwap)</p> |
+| Marketing               | 5,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)                                                                                                                 |
+| Donations               | 3,0%  | 4% Released at TGE\*, then linear vesting over the next 12 months (8% per month)                                                                                                                    |
+| Ecosystem\*\* & Listing | 5,0%  | \*\*(5% at TGE, then linear vesting over the next 12 months, only for ecosystem)                                                                                                                    |
+| Play to Earn Rewards    | 65,0% | No vesting                                                                                                                                                                                          |
+| Team & Advisors         | 17,5% | <p>10% Released at TGE*, then linear vesting over the next 18 months (5% per month)</p><p>Additionally, to provide liquidity, limited unlock when NFT are bought by users</p>                       |
 
 Para impulsar la estabilidad de valor del token, se implementarán los siguientes mecanismos:
-
-&#x20;
 
 ### Liquidity
 
