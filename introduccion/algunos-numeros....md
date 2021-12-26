@@ -1,6 +1,6 @@
 # 🔢 Algunos números...
 
-## ¿Brotes vedes?
+## ¿Brotes verdes?
 
 Consideramos que nuestra iniciativa se basa en tres palancas que hacen que sea totalmente diferencial a lo que podemos encontrar en el mercado:
 
