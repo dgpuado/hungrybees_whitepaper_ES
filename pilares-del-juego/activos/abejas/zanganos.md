@@ -34,7 +34,7 @@ La siguiente tabla muestra los rangos mínimos y máximos de la producción que 
 
 #### Mítica
 
-![](<../../../.gitbook/assets/image (25).png>)
+![](<../../../.gitbook/assets/image (25) (1).png>)
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |

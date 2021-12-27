@@ -27,4 +27,4 @@ A través de diferentes Launchpads (pendiente confirmación), pondremos a dispos
 
 Una vez se cierre la primera subfases de la venta pública, se listará el token en varios exchanges descentralizados (DEX). En un primer paso, se creará un liquidity pool (LP) en PancakeSwap. Para poder crear este liquidity pool, el equipo provisionará BNB en PancakeSwap y este importe quedará bloqueado un mínimo de 12 meses, lo que permitirá dar liquidez al token a lo largo del tiempo. Con esto posibilitaremos que siempre haya tokens disponibles para la compra o venta en el Exchange, por lo que serás libre de decidir qué hacer con tus tokens.
 
-![](../../.gitbook/assets/token.png)
+![](<../../.gitbook/assets/image (25).png>)
