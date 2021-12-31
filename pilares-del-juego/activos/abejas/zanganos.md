@@ -21,7 +21,7 @@ La siguiente tabla muestra los rangos mínimos y máximos de la producción que 
 
 #### Rara
 
-![](<../../../.gitbook/assets/image (44).png>)
+![](<../../../.gitbook/assets/image (44) (1).png>)
 
 |            | Máx.  | Min   |
 | ---------- | ----- | ----- |

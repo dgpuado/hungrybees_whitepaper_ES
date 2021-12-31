@@ -4,8 +4,8 @@
 | ------------ | --------------- | ---------- | -------------- | ------------------- |
 | Seed Sale    | $0.075          | 1,00%      | 3.200.000      | $240.000            |
 | Private Sale | $0.10           | 1,75%      | 5.600.000      | $560.000            |
-| Public Sale  | $0.125          | 1,75%      | 5.600.000      | $700.000            |
-| Total        |                 | **4,5%**   | **14.400.000** | **$1.500.000**      |
+| Public Sale  | $0.12           | 3,75%      | 12.000.000     | $1.440.000          |
+| Total        |                 | **6,5%**   | **20.800.000** | **$2.240.000**      |
 
 ### Seed Sale
 
@@ -21,10 +21,10 @@ La venta pública la dividiremos a su vez en dos subfases:
 
 #### Launchpads
 
-A través de diferentes Launchpads (pendiente confirmación), pondremos a disposición del público general tokens con un valor inicial unitario de 0,125$.
+A través de diferentes Launchpads (pendiente confirmación), pondremos a disposición del público general tokens con un valor inicial unitario de 0,12$.
 
 #### Listado en DEX (PancakeSwap)
 
 Una vez se cierre la primera subfases de la venta pública, se listará el token en varios exchanges descentralizados (DEX). En un primer paso, se creará un liquidity pool (LP) en PancakeSwap. Para poder crear este liquidity pool, el equipo provisionará BNB en PancakeSwap y este importe quedará bloqueado un mínimo de 12 meses, lo que permitirá dar liquidez al token a lo largo del tiempo. Con esto posibilitaremos que siempre haya tokens disponibles para la compra o venta en el Exchange, por lo que serás libre de decidir qué hacer con tus tokens.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (44).png>)
