@@ -14,7 +14,7 @@ En la siguiente tabla, describimos las diferentes partidas en la que categorizam
 | Marketing            | 5,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
 | ESG Donations        | 3,0%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
 | DEX Listing          | 5,0%  | No vesting                                                                                     |
-| Play to Earn Rewards | 65,0% | No vesting                                                                                     |
+| Play to Earn Rewards | 63,0% | No vesting                                                                                     |
 | Advisors             | 2,5%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
 | Team                 | 15%   | 1% Released at TGE\*, month 1 to 3, 1% each month, then linear vesting over the next 24 months |
 
