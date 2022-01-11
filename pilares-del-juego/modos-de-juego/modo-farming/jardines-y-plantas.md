@@ -18,4 +18,6 @@ Las plantas se podrán cultivar en los jardines para conseguir mieles de diferen
 
 Para conseguir miel, las abejas deberán polinizar diariamente los plantas. Cada abeja dispondrá de un contador con las veces que puede polinizar cada 24h. Cuando lo alcance, no podrá volver a polinizar hasta las próximas 24h. Al igual que las abejas, las plantas tendrán un contador que medirá el numero de veces que ha sido polinizada. Cuando el contador llegue a 200, el jugador podrá reclamar su tarro de miel potenciadora. El coste de mandar a una abeja a polinizar una planta es de 1 HHON.
 
+Una vez el tarro de miel ha sido reclamado, la planta muere. El apicultor debe adquirir y plantar una nueva planta en el jardín para comenzar de nuevo el proceso de polinización, habiéndose reiniciado el contador de esa planta a 0 polinizaciones.
+
 ![](<../../../.gitbook/assets/Plantas Esp Sin Fondo (1).png>)
