@@ -4,26 +4,28 @@ Con el objetivo de acelerar el desarrollo del juego y de la comunidad, se ha dec
 
 Estos serán los principales beneficios de vuestro apoyo a la iniciativa:
 
-#### 0.1 BNB (2000 slots)
+#### 0.3 BNB (800 slots)
 
 * Acceso prioritario y con descuento a la whitelist de NFTs (2 NFTs - 1 abeja & 1 colmena)
+* Acceso prioritario a la whitelist del token #HBEE (max 2.500 tokens)
+* Small Lootbox: 2 HoneyBox
 
 #### 0.5 BNB (750 slots)
 
 * Acceso prioritario y con descuento a la whitelist de NFTs (1 abeja & 1 colmena)
 * Acceso prioritario a la whitelist del token #HBEE (max 5.000 tokens)
-* Big Loot box: 8 Honey Box
+* Big Lootbox: 8 HoneyBox
 * 1 larva de abeja
 
 #### 1 BNB (250 slots)
 
 * Acceso prioritario y con descuento a la whitelist de NFTs (1 abeja & 1 colmena)
 * Acceso prioritario a la whitelist del token #HBEE (max 7.500 tokens)
-* Big Loot box: 16 Honey Box
+* Mega Lootbox: 16 HoneyBox
 * 1 larva de abeja
 * 1 colmena
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60).png>)
 
 **¿Cómo se realizará?**
 

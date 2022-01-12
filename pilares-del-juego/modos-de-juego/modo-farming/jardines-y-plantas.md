@@ -6,7 +6,7 @@ Los jardines son lugares donde se pueden cultivar plantas de distintos tipos, qu
 
 ### Plantas
 
-Las plantas se podrán cultivar en los jardines para conseguir mieles de diferentes sabores. Se podrán encontrar 5 tipos distintos de plantas en función de sus características, el mineral y, por ende, la miel que producen, así como la cualidad de la abeja que mejoran temporalmente.
+Las plantas se podrán cultivar en los jardines para conseguir mieles de diferentes sabores. Se podrán encontrar 5 tipos distintos de plantas en función de sus características, el mineral y, por ende, la miel que producen, así como la cualidad de la abeja que mejoran temporalmente. El precio de las plantas será de 75 HHON.
 
 | Planta   | Miel            | Habilidad  |
 | -------- | --------------- | ---------- |
