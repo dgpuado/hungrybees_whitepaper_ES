@@ -19,7 +19,3 @@ Puedes ver los detalles de la auditoria en el siguiente link:
 TokenGuard es una compañía que se dedica a auditar y valorar proyectos e iniciativas dentro de Ethereum y otras blockchain. Utilizan diversas tecnicas y sofisticadas herramientas para detector errores en el código, para evitar cualquier riesgo en los token o los Smart Contracts.
 
 ![](<../.gitbook/assets/image (64).png>)
-
-Pendientes del reporte final, compartimos las diferentes pruebas a las que está siendo sometido nuestro token y nuestro smart contract que regula y automatiza nuestra iniciativa:
-
-![](<../.gitbook/assets/image (13).png>)
