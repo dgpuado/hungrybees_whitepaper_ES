@@ -14,6 +14,4 @@ Nuestra visión es la evolución de estos modelos Play-to-Earn, hacia la creaci�
 
 Este metaverso permitirá fusionar mundo real y mundo virtual, siendo capaces de extraer beneficios de ambos mundos.
 
-
-
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
