@@ -8,7 +8,7 @@ En esta modalidad, se recompensarán los comportamientos y acciones de los usuar
 * Alimentar a las abejas
 * Ganar batallas en el modo combate
 
-Todas las recompensas generadas se entregarán en el token #HHON. Para poder retirar los tokens acumulados a un wallet externo, a través del token externo #HBEE, será necesario esperar 5 días desde la última vez que se hizo un intercambio de tokens. En este intercambio de token a #HBEE, los tokens estarán directamente abiertos para su comercio (venta) a través de los exchanges descentralizados disponibles (DEX). El #HHON se intercambiará en una relación de 1:100 con el token principal, el #HBEE. Este “staking” es un mecanismo para recompensar una mentalidad de largo plazo de nuestros miembros de la comunidad.
+Todas las recompensas generadas se entregarán en el token #HHON. Para poder retirar los tokens acumulados a un wallet externo, a través del token externo #HBEE, será necesario esperar 7 días desde la última vez que se hizo un intercambio de tokens. En este intercambio de token a #HBEE, los tokens estarán directamente abiertos para su comercio (venta) a través de los exchanges descentralizados disponibles (DEX). El #HHON se intercambiará en una relación de 1:100 con el token principal, el #HBEE. Este “staking” es un mecanismo para recompensar una mentalidad de largo plazo de nuestros miembros de la comunidad.
 
 El equipo de gobierno de HungryBees monitorizará la situación y podrá tomar la decisión de variar el bloqueo de las recompensas para estabilizar el valor del token principal, y evitar volatilidad y caídas indeseadas para toda la comunidad.
 
