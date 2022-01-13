@@ -1,6 +1,6 @@
 # 💵 Play to Earn – recompensas en el mundo virtual
 
-En nuestro ecosistema, la partida de recompensas para Play to Earn representa el 66% de los tokens emitidos, un porcentaje muy superior a otros juegos de recompensas. El objetivo de estas recompensas es atraer a un amplio espectro de jugadores y usuarios al ecosistema Hungry Bees, otorgando no solo tokens, sino también beneficios a los usuarios más activos de la comunidad.
+En nuestro ecosistema, la partida de recompensas para Play to Earn representa el 63% de los tokens emitidos, un porcentaje muy superior a otros juegos de recompensas. El objetivo de estas recompensas es atraer a un amplio espectro de jugadores y usuarios al ecosistema Hungry Bees, otorgando no solo tokens, sino también beneficios a los usuarios más activos de la comunidad.
 
 En esta modalidad, se recompensarán los comportamientos y acciones de los usuarios en el juego, en el mundo virtual, cuando se lleven a cabo las siguientes acciones:
 

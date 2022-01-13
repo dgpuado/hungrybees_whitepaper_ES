@@ -55,7 +55,7 @@
 
 ## Miscelánea
 
-* [📰 Social Media a](miscelanea/social-media-a.md)
+* [📰 Social Media](miscelanea/social-media-a.md)
 * [📜 Reporte de auditoria](miscelanea/reporte-de-auditoria.md)
 * [🛃 Aviso legal](miscelanea/aviso-legal/README.md)
   * [Descargo de responsabilidad](miscelanea/aviso-legal/descargo-de-responsabilidad.md)
