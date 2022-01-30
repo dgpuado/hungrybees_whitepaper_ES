@@ -12,7 +12,7 @@ Ya tenemos el resultado de la auditoria y hemos obtenido un 10 sobre 10 en la au
 
 Puedes ver los detalles de la auditoria en el siguiente link:
 
-{% embed url="https://tokenguard.io/ratings/63c6f8e4-b508-4ede-84b0-d40dc2cee623" %}
+{% embed url="https://tokenguard.io/ratings/hbee" %}
 
 ### ¿Que es TokenGuard?
 
