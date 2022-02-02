@@ -18,6 +18,18 @@ En la siguiente tabla, describimos las diferentes partidas en la que categorizam
 | Advisors             | 2,5%  | 10% Released at TGE\*, then linear vesting over the next 12 months (7,5% per month)            |
 | Team                 | 15%   | 1% Released at TGE\*, month 1 to 3, 1% each month, then linear vesting over the next 24 months |
 
+Las wallets asociadas al proyecto son las siguientes:
+
+|                           |                                            |
+| ------------------------- | ------------------------------------------ |
+| Preventa                  | 0x8DC0ec0a610c03608A54dcF9903684D1B7B0Be35 |
+| Marketing                 | 0x6d52Ca909fF9C7E0099919634b0E030C880Ba80f |
+| Donaciones ESG            | 0xf9beba3b5f4205F3A388B661583667E97b256a8C |
+| DEX Listing               | 0x6B201E5bE29e5AD11A42dd3F556bd1e89Be864cC |
+| Recompensas Play to Earn  | 0x6016Ed6ac184658b7b7389c07f635A8382DCe8cb |
+| Advisors                  | 0x61371FF29c11D0220eB5122E46faB056737223C0 |
+| Team                      | 0x64368B901581A84ebE6a4b573786043D19dA757C |
+
 Para impulsar la estabilidad de valor del token, se implementarán los siguientes mecanismos:
 
 ### Liquidity
