@@ -4,6 +4,8 @@
 
 Los jardines son lugares donde se pueden cultivar plantas de distintos tipos, que las abejas deberán polinizar para conseguir mieles de diferentes sabores. Estas mieles aumentarán temporalmente las cualidades de las abejas y se podrán utilizar en los modos de juego de combate para tener ventajas sobre tus contrincantes. Los jardines, a diferencia de las colmenas y las abejas, NO serán NFTs, sino que serán ítems que se podrán comprar en la shop del juego. Cada jardín tendrá espacio para cultivar 5 plantas al mismo tiempo.
 
+![](<../../../.gitbook/assets/HBEE Garden.jpeg>)
+
 ### Plantas
 
 Las plantas se podrán cultivar en los jardines para conseguir mieles de diferentes sabores. Se podrán encontrar 5 tipos distintos de plantas en función de sus características, el mineral y, por ende, la miel que producen, así como la cualidad de la abeja que mejoran temporalmente. El precio de las plantas será de 75 HHON.
