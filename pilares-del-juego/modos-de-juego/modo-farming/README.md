@@ -6,7 +6,7 @@ Los apicultores deberán cuidar sus colmenas y abejas de un clima impredecible y
 
 ### Caracteristicas del Farming
 
-Para que la producción de miel sea la habitual, cada abeja deberá ingerir 1 unidad de suplemento de litio y 2 unidades de hidrógeno líquido cada 12 horas. De no ser así, la producción de miel de la abeja en cuestión quedará detenida, perdiéndose la producción del tiempo que transcurra sin dichos cuidados.
+Para que la producción de miel sea la habitual, cada abeja deberá ingerir 1 unidad de suplemento de litio y 2 unidades de hidrógeno líquido cada 12 horas (2 y 4 unidades respectivamente cada 24 horas). De no ser así, la producción de miel de la abeja en cuestión quedará detenida, perdiéndose la producción del tiempo que transcurra sin dichos cuidados.
 
 ![](<../../../.gitbook/assets/HBEE Hive.jpeg>)
 
