@@ -56,8 +56,9 @@ A continuación, mostramos una tabla donde describimos las ventajas o beneficios
 
 ### Requisitos
 
-|                                                    | Bronze | Silver | Gold | Platinum |
-| -------------------------------------------------- | ------ | ------ | ---- | -------- |
-| Mínimo de #HBEE en wallet de usuario               | 1      | 10     | 100  | 1000     |
-| Mínimo de NFTs en wallet de usuario                | 1      | 2      | 5    | 10       |
-| Número de acciones sostenibles para pasar de nivel | 5      | 10     | 25   | 35       |
+|                                                           | Bronze | Silver | Gold | Platinum |
+| --------------------------------------------------------- | ------ | ------ | ---- | -------- |
+| Mínimo de #HBEE en wallet de usuario                      | 100    | 1000   | 5000 | 10000    |
+| Mínimo de NFTs en wallet de usuario                       | 1      | 2      | 5    | 10       |
+| Número de acciones sostenibles para pasar de nivel        | 5      | 10     | 25   | 35       |
+| Minimo de NFT de  la Galeria NFT en el wallet del usuario | 0      | 1      | 3    | 5        |
