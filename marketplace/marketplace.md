@@ -12,8 +12,8 @@ Adicionalmente habilitaremos un sistema para comprobar el estado de tu donación
 
 #### Precios de los NFTs
 
-Los precios de los NFTs se mantendrán fijos en su venta inicial hasta que todos hayan sido adquiridos por los apicultores, fijando un precio de 150 #HBEE para las abejas y 1500 #HBEE para las colmenas. Sin embargo, durante las preventas, el precio se reducirá a 120 #HBEE y 1200 #HBEE respectivamente. Tanto las colmenas, como las abejas (larvas) serán adquiridas en su primera venta en un formato aleatorio, no sé podrá seleccionar el tipo y rareza de NFT que se desea adquirir.
+Los precios de los NFTs se mantendrán fijos en su venta inicial hasta que todos hayan sido adquiridos por los apicultores, fijando un precio de 150 #HBEE para las abejas (máximo de 25 abejas por wallet) y 1500 #HBEE para las colmenas (máximo de 5 colmenas por wallet). Sin embargo, durante las preventas, el precio se reducirá a 120 #HBEE y 1200 #HBEE respectivamente. Tanto las colmenas, como las abejas (larvas) serán adquiridas en su primera venta en un formato aleatorio, no sé podrá seleccionar el tipo y rareza de NFT que se desea adquirir.
 
-Tras concluir la venta inicial de los NFTs, estos solo podrán ser intercambiados entre usuarios de la comunidad a través de nuestro Marketplace.&#x20;
+Tras concluir la venta inicial de los NFTs, estos solo podrán ser intercambiados entre usuarios de la comunidad a través de nuestro Marketplace.
 
 ![](../.gitbook/assets/DobleNFT.png)
