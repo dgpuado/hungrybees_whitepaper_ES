@@ -45,20 +45,20 @@ A continuación, mostramos una tabla donde describimos las ventajas o beneficios
 
 ### Beneficios/Recompensas
 
-|                                                            | Bronze | Silver    | Gold                                  | Platinum                            |
-| ---------------------------------------------------------- | ------ | --------- | ------------------------------------- | ----------------------------------- |
-| Mejora en Farming                                          | 0      | 0         | <p>+0,5%</p><p>recolección diaria</p> | <p>+1%</p><p>recolección diaria</p> |
-| Acceso prioritario al juego                                | NO     | SI (BETA) | SI                                    | SI                                  |
-| Acelerador en el juego (In game booster)                   | 1 item | 3 items   | 6 items                               | 10 items                            |
-| Recompensa directa en tokens por cada acción (#HHONS)      | 20     | 35        | 50                                    | 75                                  |
-| Acceso al canal VIP                                        | NO     | NO        | YES                                   | YES                                 |
-| Acceso a promociones, servicios y productos del ecosistema | SI     | SI        | SI (premium)                          | SI (gratuito)                       |
+|                                                            | Sin Insignia | Bronze | Silver    | Gold                                  | Platinum                            |
+| ---------------------------------------------------------- | ------------ | ------ | --------- | ------------------------------------- | ----------------------------------- |
+| Mejora en Farming                                          | 0            | 0      | 0         | <p>+0,5%</p><p>recolección diaria</p> | <p>+1%</p><p>recolección diaria</p> |
+| Acceso prioritario al juego                                | NO           | NO     | SI (BETA) | SI                                    | SI                                  |
+| Acelerador en el juego (In game booster)                   | 0            | 1 item | 3 items   | 6 items                               | 10 items                            |
+| Recompensa directa en tokens por cada acción (#HHONs)      | 1.000        | 2.500  | 3.500     | 5.000                                 | 10.000                              |
+| Acceso al canal VIP                                        | NO           | NO     | NO        | YES                                   | YES                                 |
+| Acceso a promociones, servicios y productos del ecosistema | NO           | SI     | SI        | SI (premium)                          | SI (gratuito)                       |
 
 ### Requisitos
 
-|                                                           | Bronze | Silver | Gold | Platinum |
-| --------------------------------------------------------- | ------ | ------ | ---- | -------- |
-| Mínimo de #HBEE en wallet de usuario                      | 100    | 1000   | 5000 | 10000    |
-| Mínimo de NFTs en wallet de usuario                       | 1      | 2      | 5    | 10       |
-| Número de acciones sostenibles para pasar de nivel        | 5      | 10     | 25   | 35       |
-| Minimo de NFT de  la Galeria NFT en el wallet del usuario | 0      | 1      | 3    | 5        |
+|                                                           | Sin Insignia | Bronze | Silver | Gold  | Platinum |
+| --------------------------------------------------------- | ------------ | ------ | ------ | ----- | -------- |
+| Mínimo de #HBEE en wallet de usuario                      | 50           | 250    | 1.000  | 5.000 | 10.000   |
+| Mínimo de NFTs en wallet de usuario                       | 1            | 2      | 3      | 5     | 10       |
+| Número de acciones sostenibles para pasar de nivel        | 0            | 5      | 10     | 25    | 35       |
+| Minimo de NFT de  la Galeria NFT en el wallet del usuario | 0            | 0      | 1      | 3     | 5        |
