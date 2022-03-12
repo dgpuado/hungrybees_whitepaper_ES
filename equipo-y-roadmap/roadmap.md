@@ -21,12 +21,12 @@ A continuación se describe las diferentes etapas por las que pasará el proyect
 
 #### Q1 2022
 
-* [ ] Token Presale (Seed, Private, Public)
-* [ ] Listing on Pancakeswap
+* [x] Token Presale (Seed, Private, Public)
+* [x] Listing on Pancakeswap
 * [ ] ESG Community expansion
 * [ ] Sustainable NFT Gallery
 * [ ] Partnerships with ESG and gaming
-* [ ] Launch of Farming version
+* [x] Launch of Farming version
 * [ ] NFT Gaming Marketplace development
 
 #### Q2 2022
