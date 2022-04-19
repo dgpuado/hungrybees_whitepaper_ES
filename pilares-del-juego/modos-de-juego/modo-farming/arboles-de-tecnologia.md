@@ -6,10 +6,10 @@ Dentro de la modalidad de juego de farming, existirá la posibilidad de obtener 
 
 Carrera militar: investigando estas tecnologías el jugador tendrá ventajas permanentes en el modo de juego de combate (aumento en las cualidades de las abejas de su colmena).
 
-![](<../../../.gitbook/assets/Tecno Militar ESP.png>)
+![](<../../../.gitbook/assets/Captura de pantalla 2022-04-19 a las 17.59.15 (1).png>)
 
-Carrera científica: estas tecnologías permitirán al jugador obtener ventajas en el modo farming (menores costes de producción de miel, menor necesidad de alimentación de abejas, protecciones contra climatología adversa, etc.).
+Carrera científica: estas tecnologías permitirán al jugador obtener ventajas en el modo farming (menores costes de producción de miel, menor necesidad de alimentación de abejas, protecciones contra climatología adversa, etc).
 
-![](<../../../.gitbook/assets/Tecno Civil Esp.png>)
+![](<../../../.gitbook/assets/Captura de pantalla 2022-04-19 a las 17.59.09.png>)
 
 Todas estas artes y ciencias tendrán un coste de oportunidad, ya que será necesario el paso de cierto tiempo de investigación antes de desbloquear tecnologías más innovadoras. Además, desbloquearlas tendrá cierto coste en HBEE, ya que los investigadores deberán tener presupuesto para poder alcanzar los objetivos.
