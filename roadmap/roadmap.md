@@ -40,8 +40,8 @@ A continuación se describe las diferentes etapas por las que pasará el proyect
 
 #### Q3 2022
 
-* [x] Constant updates
-* [x] Adverts targeting twitch, YouTube…
-* [x] Twitch partnership with top streamers
+* [ ] Constant updates
+* [ ] Adverts targeting twitch, YouTube…
+* [ ] Twitch partnership with top streamers
 
 ![](<../.gitbook/assets/image (2).png>)
