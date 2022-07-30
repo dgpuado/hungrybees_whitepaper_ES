@@ -23,25 +23,25 @@ A continuación se describe las diferentes etapas por las que pasará el proyect
 
 * [x] Token Presale (Seed, Private, Public)
 * [x] Listing on Pancakeswap
-* [ ] ESG Community expansion
-* [ ] Sustainable NFT Gallery
-* [ ] Partnerships with ESG and gaming
+* [x] ESG Community expansion
+* [x] Sustainable NFT Gallery
+* [x] Partnerships with ESG and gaming
 * [x] Launch of Farming version
-* [ ] NFT Gaming Marketplace development
+* [x] NFT Gaming Marketplace development
 
 #### Q2 2022
 
-* [ ] Combat version of HungryBees
-* [ ] Gathering Play-Testers
-* [ ] Full Game Launch
-* [ ] NFT Gaming Marketplace launch
-* [ ] Partnership with other gaming tokens using our NFT Marketplace
-* [ ] Hiring top influencer to play and review publicly
+* [x] Combat version of HungryBees
+* [x] Gathering Play-Testers
+* [x] Full Game Launch
+* [x] NFT Gaming Marketplace launch
+* [x] Partnership with other gaming tokens using our NFT Marketplace
+* [x] Hiring top influencer to play and review publicly
 
 #### Q3 2022
 
-* [ ] Constant updates
-* [ ] Adverts targeting twitch, YouTube…
-* [ ] Twitch partnership with top streamers
+* [x] Constant updates
+* [x] Adverts targeting twitch, YouTube…
+* [x] Twitch partnership with top streamers
 
 ![](<../.gitbook/assets/image (2).png>)
