@@ -51,7 +51,6 @@
 ## Equipo y Roadmap
 
 * [📆 Roadmap](equipo-y-roadmap/roadmap.md)
-* [👨💼 👨💼 Equipo y colaboradores](equipo-y-roadmap/equipo-y-colaboradores.md)
 
 ## Miscelánea
 
