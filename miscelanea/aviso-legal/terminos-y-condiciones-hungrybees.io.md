@@ -2,8 +2,6 @@
 
 El acceso a los contenidos de las secciones de nuestra Web, se hará de acuerdo a la política que establezca la HUNGRYBEES. Asimismo la entidad, podrá modificar, en cualquier momento y sin previo aviso, la información contenida en el sitio Web, por lo que la entidad no se responsabiliza de que esa información esté actualizada.
 
-&#x20;
-
 #### RESPONSABILIDAD DE HUNGRYBEES
 
 Tanto el acceso a esta Web como el uso que pueda hacerse de la información contenida en el mismo es de la exclusiva responsabilidad de quien lo realiza.
@@ -24,7 +22,11 @@ Su puesta a disposición y uso, no supone, en ningún caso, la cesión de su tit
 
 La inclusión en el portal https://hungrybees.io/ de links o enlaces con otros portales, tiene una finalidad meramente informativa, y no supone que HUNGRYBEES recomiende y/o garantice dichos portales, sobre los que no ejerce control alguno, ni es responsable del contenido de los mismos.
 
-### &#x20;Política de Cookies
+#### CESE DE ACTIVIDAD
+
+En el caso de que por motivos económicos, técnicos, productivos, organizativos o de situación de mercado, se determine la inviabilidad de proseguir la actividad y la provisión de servicios, se ejecutará un mecanismo de compensación de recompra de activos. Este mecanismo tiene la finalidad de devolver a los usuarios los tokens (Utility tokens) que utilizaron para el acceso a los diferentes servicios, y que, por cese de actividad, dejen de estar disponibles. Para ello, se hará una recompra masiva y total de los activos del proyecto (abejas, colmenas...), entregando a cambio, como minimo, la misma cantidad de tokens (HBEE) que el usuario utilizo para su adquisición. Al recibir este mecanismo de compensación, el usuario desiste de presentar ninguna reclamación, litigio o arbitraje, aceptando la conformidad y el cese de actividad.
+
+### Política de Cookies
 
 #### ¿Qué son las cookies?
 
@@ -38,8 +40,6 @@ Una cookie es un fichero que se descarga en su ordenador al acceder a determinad
 
 **Cookies usadas por complementos externos de contenido**: este sitio web no utiliza cookies publicitarias pero algunos de los servicios de Google utilizados descargan la cookie NID que Google utiliza para poder personalizar los anuncios que se muestran en sus servicios como, por ejemplo, la Búsqueda de Google. Más información en el siguiente [enlace](https://www.google.com/intl/es\_es/policies/technologies/cookies/).
 
-&#x20;
-
 Relación de las cookies utilizadas
 
 La siguiente tabla muestra las cookies arriba expuestas y su duración:
@@ -52,8 +52,6 @@ La siguiente tabla muestra las cookies arriba expuestas y su duración:
 | PREF             | .google.com   | 2 años       |
 
 La aplicación utilizada para obtener información de la navegación, medir y analizar la audiencia es [Google Analytics](https://www.google.com/analytics/).
-
-&#x20;
 
 Esta aplicación ha sido desarrollada por Google, y presta el servicio de medición y análisis de la audiencia de las páginas. Puedes conocer su uso desde el enlace indicado.
 
@@ -69,13 +67,9 @@ Puede usted permitir, bloquear o eliminar las cookies instaladas en su equipo me
 [Safari](https://support.apple.com/es-es/HT201265)\
 [Opera](http://help.opera.com/Windows/11.50/es-ES/cookies.html)
 
-&#x20;
-
 Uso de las cookies
 
 La información obtenida por las cookies es tratada solo por el titular de la web, y no cedida a terceras partes.
-
-
 
 ### POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL
 
@@ -85,7 +79,7 @@ En cumplimiento de lo establecido en la normativa aplicable de Protección de Da
 
 Para la correcta prestación de los servicios ofrecidos por HUNGRYBEES es preciso que el usuario conteste a todas y cada una de las preguntas que aparecen en los formularios presentes en nuestro sitio web. Asimismo, el usuario declara que es mayor de edad.
 
-El tratamiento de los datos de carácter personal solicitados tendrán además como finalidad del tratamiento el envío de información comercial relativa a productos y servicios ofrecidos actualmente y en el futuro por HUNGRYBEES esa información incluye comunicaciones publicitarias y promocionales, a través de correo postal, fax, correo electrónico o  cualquier otro medio. Para realizar este tratamiento es necesario que el usuario marque la casilla habilitada al efecto en el formulario de la página web.
+El tratamiento de los datos de carácter personal solicitados tendrán además como finalidad del tratamiento el envío de información comercial relativa a productos y servicios ofrecidos actualmente y en el futuro por HUNGRYBEES esa información incluye comunicaciones publicitarias y promocionales, a través de correo postal, fax, correo electrónico o cualquier otro medio. Para realizar este tratamiento es necesario que el usuario marque la casilla habilitada al efecto en el formulario de la página web.
 
 En el caso en el que el usuario se suscriba a nuestro boletín/newsletter o blog su correo electrónico pasará a formar parte de nuestra base de datos para el envío de noticias. Para poder suscribirse a este servicio es necesario que marque la casilla de suscripción, en caso de no hacerlo no quedará suscrito a nuestro boletín.
 
@@ -99,19 +93,17 @@ Los datos recabados y tratados se conservarán por un plazo de tiempo limitado, 
 
 El usuario como interesado puede ejercer en todo momento los siguientes derechos en la dirección indicada en el Aviso Legal:
 
-·        **Derecho de acceso**: el interesado podrá solicitar al Responsable los datos tratados y en caso afirmativo qué datos personales concretos son tratados.
+· **Derecho de acceso**: el interesado podrá solicitar al Responsable los datos tratados y en caso afirmativo qué datos personales concretos son tratados.
 
-·        **Derecho de rectificación**: el interesado podrá solicitar al Responsable la corrección de sus datos personales en caso de no ser exactos.
+· **Derecho de rectificación**: el interesado podrá solicitar al Responsable la corrección de sus datos personales en caso de no ser exactos.
 
-·        **Derecho de supresión**: el interesado podrá solicitar al Responsable el borrado de sus datos personales.
+· **Derecho de supresión**: el interesado podrá solicitar al Responsable el borrado de sus datos personales.
 
-·        **Derecho de oposición**: el interesado podrá oponerse a que el Responsable realice un tratamiento de sus datos personales.
+· **Derecho de oposición**: el interesado podrá oponerse a que el Responsable realice un tratamiento de sus datos personales.
 
-·        **Derecho a la limitación del tratamiento**: el interesado podrá solicitar al Responsable que temporalmente no trate sus datos personales en unos supuestos concretos.
+· **Derecho a la limitación del tratamiento**: el interesado podrá solicitar al Responsable que temporalmente no trate sus datos personales en unos supuestos concretos.
 
-·        **Derecho a la portabilidad**: el interesado podrá solicitar al Responsable sus datos automatizados en un formato estructurado de fácil acceso y manejo.
-
-&#x20;
+· **Derecho a la portabilidad**: el interesado podrá solicitar al Responsable sus datos automatizados en un formato estructurado de fácil acceso y manejo.
 
 Más información sobre sus derechos en www.agpd.es.
 
@@ -123,11 +115,11 @@ Los datos que serán almacenados en cada “cookie” son los siguientes: idioma
 
 Desde este sitio Web estudiamos las preferencias de nuestros usuarios (características demográficas, sus patrones de tráfico y otra información en conjunto para comprender el comportamiento y el perfil de nuestros usuarios). El rastreo de las preferencias de nuestros usuarios nos ayuda para mejorar nuestra Página así como nuestros servicios.
 
-Para ello, utilizamos el sistema Google Analytics (herramienta de Google para la medición del tráfico de las Páginas Web), el cual puede almacenar cookies en su ordenador para ayudarnos a recopilar información que será utilizada únicamente con fines estadísticos y de estudio del comportamiento de los usuarios de nuestro sitio web. La información que recopila la cookie (incluida la IP) es almacenada y transmitida hacia los servidores de Google en Estados Unidos. Google utilizará dichos datos para recopilar su actividad en nuestro sitio y generar informes con el propósito de identificar el uso que hace del sitio. Google podrá proporcionar dicha información a terceros cuando así lo requiera la legislación vigente.  La aceptación de esta política supone la aceptación del uso por parte de Google de la información recogida por Google Analytics.
+Para ello, utilizamos el sistema Google Analytics (herramienta de Google para la medición del tráfico de las Páginas Web), el cual puede almacenar cookies en su ordenador para ayudarnos a recopilar información que será utilizada únicamente con fines estadísticos y de estudio del comportamiento de los usuarios de nuestro sitio web. La información que recopila la cookie (incluida la IP) es almacenada y transmitida hacia los servidores de Google en Estados Unidos. Google utilizará dichos datos para recopilar su actividad en nuestro sitio y generar informes con el propósito de identificar el uso que hace del sitio. Google podrá proporcionar dicha información a terceros cuando así lo requiera la legislación vigente. La aceptación de esta política supone la aceptación del uso por parte de Google de la información recogida por Google Analytics.
 
 Vd. puede configurar su navegador para rechazar el almacenamiento de las cookies en su ordenador. Puede obtener más información en nuestra Política de Cookies.
 
-INFORMACIÓN  COMPLETA SOBRE EL TRATAMIENTO DE DATOS PERSONALES
+INFORMACIÓN COMPLETA SOBRE EL TRATAMIENTO DE DATOS PERSONALES
 
 RESPONSABLE DEL TRATAMIENTO
 
@@ -163,7 +155,7 @@ LEGITIMACIÓN DEL TRATAMIENTO
 
 La base legal para el tratamiento de sus datos es la siguiente:
 
-–  Ejecución del contrato en el caso de que Usted sea empleado cliente, proveedor.
+– Ejecución del contrato en el caso de que Usted sea empleado cliente, proveedor.
 
 – Consentimiento del interesado prestado en la página web en el caso de que usted realice alguna petición o consulta en nuestro formulario de contacto o bien se suscriba a la newsletter.
 
@@ -199,19 +191,19 @@ c) Los datos (IMÁGENES) de TRABAJADORES/CLIENTES/EVENTOS/FORMACIONES se comunic
 
 Cualquier persona tiene derecho a obtener confirmación sobre si en HUNGRYBEES estamos tratando datos personales que les conciernan, o no.
 
-·        **Derecho de acceso**: el interesado podrá solicitar al Responsable los datos tratados y en caso afirmativo qué datos personales concretos son tratados.
+· **Derecho de acceso**: el interesado podrá solicitar al Responsable los datos tratados y en caso afirmativo qué datos personales concretos son tratados.
 
-·        **Derecho de rectificación**: el interesado podrá solicitar al Responsable la corrección de sus datos personales en caso de no ser exactos.
+· **Derecho de rectificación**: el interesado podrá solicitar al Responsable la corrección de sus datos personales en caso de no ser exactos.
 
-·        **Derecho de supresión**: el interesado podrá solicitar al Responsable el borrado de sus datos personales cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos.
+· **Derecho de supresión**: el interesado podrá solicitar al Responsable el borrado de sus datos personales cuando, entre otros motivos, los datos ya no sean necesarios para los fines para los que fueron recogidos.
 
-·        **Derecho de oposición**: el interesado podrá oponerse a que el Responsable realice un tratamiento de sus datos personales.
+· **Derecho de oposición**: el interesado podrá oponerse a que el Responsable realice un tratamiento de sus datos personales.
 
-·        **Derecho a la limitación del tratamiento**: el interesado podrá solicitar al Responsable que temporalmente no trate sus datos personales en unos supuestos concretos.
+· **Derecho a la limitación del tratamiento**: el interesado podrá solicitar al Responsable que temporalmente no trate sus datos personales en unos supuestos concretos.
 
-·        **Derecho a la portabilidad**: el interesado podrá solicitar al Responsable sus datos automatizados en un formato estructurado de fácil acceso y manejo.
+· **Derecho a la portabilidad**: el interesado podrá solicitar al Responsable sus datos automatizados en un formato estructurado de fácil acceso y manejo.
 
-&#x20;****&#x20;
+\*\*\*\*
 
 **¿Cómo se pueden ejercer los derechos?**
 
@@ -219,4 +211,4 @@ Mediante un escrito por mail dirigido a HUNGRYBEES, hello@hungrybees.io
 
 **¿Qué vías de reclamación existen?**
 
-Si considera que sus derechos no se han atendido debidamente, tiene derecho a presentar una reclamación ante  la Agencia Española de Protección de Datos, C/ Jorge Juan, 6. 28001 – Madrid.
+Si considera que sus derechos no se han atendido debidamente, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos, C/ Jorge Juan, 6. 28001 – Madrid.
